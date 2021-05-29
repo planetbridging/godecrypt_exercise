@@ -1,0 +1,58 @@
+Harry Potter
+Hermione Ganger
+Professor Albus Dumbledore
+Luna Lovegood
+Dobby
+Rubeus Hagrid
+Remus Lupin
+Neville Longbottom
+Lilly Evans Potter
+Nymphadora Tonks
+James Potter
+Fleur Delacour
+Vincent Crabbe
+Lucious Malfoy
+Albus sverus Potter
+Narcissa Malfoy
+George Weasley
+Percy Weasley
+Molly Weasley
+Pomona Sprout
+Aberforth Dumbledore
+Dudley Dursley
+Professor Horce Slughorn
+Lily Luna Potter
+Professor Filius Fitwick
+Pansy Parkinson
+Petunia Evans Dursley
+Helena Ravenclaw
+Rita Skeeter
+Vernon Dursley
+Crookshanks
+Gilderoy Lockhart
+Viktor Krum
+Charity Burbage
+Rufus Scrimgeour
+Padma Patil
+Hannah Abott
+Gregory Goyle
+Argus Filch
+Gregorovitch
+Amycus Carrow
+Ted Tonks
+Elphias Doge
+Ernie Macmillan
+Throwfinn Rowle
+Katie Bell
+Michael Corner
+Reginald Coner
+Reginald Cattermole
+Gabrielle Delacour
+Marry Cattermole
+Mrs. Noris
+flag
+pwd
+password
+username
+user
+root
